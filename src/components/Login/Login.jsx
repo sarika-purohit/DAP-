@@ -9,7 +9,7 @@ const Login = () => {
                     <div class="ic-account"></div>
                     <form name="login-form" action="#" method="post">
                         <input class="login-form-input" type="text" name="your-email" placeholder="Enter Address 📬" required />
-                        <input class="login-form-input" type="number" name="your-password" placeholder="Enter Value 💰" required />
+                        <input class="login-form-input" type="number" min="0" name="your-password" placeholder="Enter Value 💰" required />
                         <button class="login-form-btn" type="submit">Send Reef</button>
                         <p class="text">
                             <a data-url="#">You are logged in as : Test Account 🙉 🔄</a>
