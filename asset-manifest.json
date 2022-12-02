@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reefs/static/css/main.7d8a78bc.css",
+    "main.js": "/reefs/static/js/main.98697867.js",
+    "static/js/787.ecd9ec48.chunk.js": "/reefs/static/js/787.ecd9ec48.chunk.js",
+    "static/media/logo.svg": "/reefs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reefs/index.html",
+    "main.7d8a78bc.css.map": "/reefs/static/css/main.7d8a78bc.css.map",
+    "main.98697867.js.map": "/reefs/static/js/main.98697867.js.map",
+    "787.ecd9ec48.chunk.js.map": "/reefs/static/js/787.ecd9ec48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8a78bc.css",
+    "static/js/main.98697867.js"
+  ]
+}
